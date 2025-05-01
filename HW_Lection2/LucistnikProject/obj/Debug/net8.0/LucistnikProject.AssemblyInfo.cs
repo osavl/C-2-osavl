@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LucistnikProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d14f3b641012cfbf68b1dee4e7b90fc75ea25c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc06d371598a9772b4f1e9eeeea84c828e1e026e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LucistnikProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LucistnikProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
