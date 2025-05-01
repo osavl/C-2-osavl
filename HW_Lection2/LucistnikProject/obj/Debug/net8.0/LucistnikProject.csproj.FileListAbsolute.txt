@@ -1,0 +1,15 @@
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\bin\Debug\net8.0\LucistnikProject.exe
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\bin\Debug\net8.0\LucistnikProject.deps.json
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\bin\Debug\net8.0\LucistnikProject.runtimeconfig.json
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\bin\Debug\net8.0\LucistnikProject.dll
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\bin\Debug\net8.0\LucistnikProject.pdb
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.AssemblyInfoInputs.cache
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.AssemblyInfo.cs
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.sourcelink.json
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.dll
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\refint\LucistnikProject.dll
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.pdb
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\LucistnikProject.genruntimeconfig.cache
+C:\Users\Oleksandra.Savluk\OneDrive - Novanta\Documents\C#2\HW_Lection2\LucistnikProject\obj\Debug\net8.0\ref\LucistnikProject.dll
